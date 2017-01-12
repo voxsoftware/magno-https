@@ -1,0 +1,11 @@
+{
+	"org":{
+		"voxsoftware":{
+			"Magno":{
+				"HttpsServer":{
+					"readPath": "./src"
+				}
+			}
+		}
+	}
+}

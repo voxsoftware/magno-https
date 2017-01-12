@@ -1,0 +1,29 @@
+{
+  "name": "magno-https",
+  "version": "0.0.1",
+  "description": "Https server para magno. Utiliza korpu para este propósito",
+  "main": "main",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voxsoftware/magno-https.git"
+  },
+  "dependencies": {
+    "korpu": "^0.x"
+  },
+  "keywords": [
+    "https",
+    "https-server",
+    "proxy",
+    "korpu",
+    "vox-core"
+  ],
+  "author": "James Suárez <xtreme.maicolxt94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voxsoftware/magno-https/issues"
+  },
+  "homepage": "https://github.com/voxsoftware/magno-https#README"
+}
